@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center">个人介绍</h3>
 
-<!--
-**Jruing/Jruing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Language
+<img src="https://img.shields.io/badge/-Python-563D7C?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Golang-563D7C?style=flat&logo=go&logoColor=white">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DataBase
+<img src="https://img.shields.io/badge/-Postgres-563D7C?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-563D7C?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-Oracle-563D7C?style=flat&logo=oracle&logoColor=white">
+
+
+
+### Tools
+<img src="https://img.shields.io/badge/-Nginx-563D7C?style=flat&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-563D7C?style=flat&logo=docker&logoColor=white">
+
