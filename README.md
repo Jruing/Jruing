@@ -28,7 +28,7 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jruing&theme=github-compact&hide_border=true&area=true" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,jquery,nodejs,ts,md,vue,vite,py,docker,linux,nginx">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,nodejs,ts,md,py,docker,linux,nginx,go">
 </p>
 
 <!-- https://github.com/badges/shields -->
